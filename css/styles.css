@@ -213,8 +213,18 @@ color: grey;
         margin-bottom: -20px;
     }
     .testimonial-text{
+        font-size:x-large;
+        line-height: 3rem;
+    }
+    h1{
         font-size:xx-large;
-        line-height: 3.5rem;
+    }
+    .h2-price{
+        font-size:xx-large;
+        line-height: 3rem;
+    }
+    .h3-down{
+        font-size:xx-large;
     }
 }
 @media(max-width:460px)
@@ -224,7 +234,17 @@ color: grey;
         margin-bottom: -20px;
     }
     .testimonial-text{
+        font-size:x-large;
+        line-height: 3rem;
+    }
+    h1{
+        font-size:xx-large;
+    }
+    .h2-price{
         font-size:xx-large;
         line-height: 3rem;
+    }
+    .h3-down{
+        font-size:xx-large;
     }
 }
