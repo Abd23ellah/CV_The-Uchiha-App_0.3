@@ -210,5 +210,21 @@ color: grey;
 {
     .first-I{
         margin-left: -125px;
+        margin-bottom: -20px;
+    }
+    .testimonial-text{
+        font-size:xx-large;
+        line-height: 3.5rem;
+    }
+}
+@media(max-width:460px)
+{
+    .first-I{
+        margin-left: -135px;
+        margin-bottom: -20px;
+    }
+    .testimonial-text{
+        font-size:xx-large;
+        line-height: 3rem;
     }
 }
