@@ -23,7 +23,9 @@ h2{
 }
 .container-fluid{
     padding: 3% 15%;
+    overflow: hidden;
 }
+
 /* nav bar */
 .navbar{
     padding:0 0 4.5rem 0;
@@ -203,7 +205,21 @@ color: grey;
 @media(max-width:596px)
 {
     .first-I{
-        margin-left: -85px;
+        margin-left: -117px;
+    }
+    .testimonial-text{
+        font-size:xx-large;
+        line-height: 3rem;
+    }
+    h1{
+        font-size:2.7rem;
+    }
+    .h2-price{
+        font-size:xx-large;
+        line-height: 3rem;
+    }
+    .h3-down{
+        font-size:xx-large;
     }
 }
 @media(max-width:488px)
@@ -230,7 +246,7 @@ color: grey;
 @media(max-width:460px)
 {
     .first-I{
-        margin-left: -135px;
+        margin-right: -125px;
         margin-bottom: -20px;
     }
     .testimonial-text{
@@ -247,4 +263,5 @@ color: grey;
     .h3-down{
         font-size:xx-large;
     }
+    
 }
