@@ -246,7 +246,7 @@ color: grey;
 @media(max-width:460px)
 {
     .first-I{
-        margin-left: -150px;
+        margin-left: -145px !important;
         margin-bottom: -20px;
     }
     .testimonial-text{
